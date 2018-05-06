@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-#coding:utf-8
+# -*- coding: utf-8 -*-
 """
-  Author:  llx --<>
-  Purpose: web app orm
-  Created: 2018/5/5
+  Author:  luo linxin --<>
+  Purpose: web orm framwword
+  Created: 2018/5/6
 """
 
 import logging

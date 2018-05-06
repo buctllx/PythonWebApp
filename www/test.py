@@ -1,5 +1,10 @@
 #!/usr/bin/env python
-#coding:utf-8
+# -*- coding: utf-8 -*-
+"""
+  Author:  luo linxin --<>
+  Purpose: just for test
+  Created: 2018/5/6
+"""
 
 import orm
 import asyncio

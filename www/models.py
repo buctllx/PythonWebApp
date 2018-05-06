@@ -1,11 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-'''
-Models for user, blog, comment.
-'''
-
-__author__ = 'Michael Liao'
+"""
+  Author:  luo linxin --<>
+  Purpose: just for test
+  Created: 2018/5/5
+"""
 
 import time, uuid
 
