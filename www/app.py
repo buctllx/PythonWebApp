@@ -17,7 +17,7 @@ from datetime import datetime
 #----------------------------------------------------------------------
 def index(request):
     """"""
-    return web.Response(body = u'<h1>Hello World！</h1>', content_type='text/html',charset='utf-8')
+    return web.Response(body = u'<h1>Hello World！</h1>', content_type='text/html', charset='utf-8')
 
 @asyncio.coroutine
 def init(loop):
